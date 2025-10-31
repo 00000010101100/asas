@@ -301,8 +301,6 @@ export default function App() {
         scrollContainerRef={scrollContainerRef}
         isToggling={isToggling}
         onBackToMain={handleBackToMain}
-        onClose={handleClose}
-        onToggle={handleToggle}
       />
     </div>
   );
